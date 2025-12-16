@@ -1,5 +1,4 @@
-# Teensy 4.0 Pin Expansion Shield
-
+# 🔌 Teensy 4.0 Pin Expansion Shield
 
 ## Overview
 
@@ -8,15 +7,11 @@ All Teensy 4.0 pins are routed to clearly labeled headers, and the power rails (
 
 This shield is intended as a **clean wiring solution for prototyping and testing**, improving organization and accessibility during hardware development.
 
----
+
 
 ## 📂 Contents
+- `/Hardware` → schematic, PCB, Gerbers.
 
-- 🧠 **hardware** → Schematics, PCB layout, and Gerbers  
-- 📄 **docs** → Design notes and references  
-- 🖼️ **media** → PCB renders and images  
-
----
 
 ## ⚙️ Hardware Description
 
@@ -33,7 +28,7 @@ Each Teensy pin is routed to expansion connectors for easy access.
 > This shield contains no active components, no voltage regulation, and no protection circuitry.  
 > It is purely a **pin breakout and power distribution board**.
 
----
+
 
 ## 🎯 Intended Use
 
@@ -43,7 +38,7 @@ Each Teensy pin is routed to expansion connectors for easy access.
 - Temporary development benches  
 - Easy connection to sensors, modules, and peripherals  
 
----
+
 
 ## 🧩 Design Notes
 
@@ -52,6 +47,14 @@ Each Teensy pin is routed to expansion connectors for easy access.
 - Clearly labeled connectors  
 - Grouped power rails for convenience  
 
-## License
+
+
+## 🖼️ Render 3D PCB 
+
+<p align="center">
+<img width="500" alt="UAV Control Loop" src="https://github.com/user-attachments/assets/9d342de3-f207-44a3-a338-7d241f2a026d" />
+</p>
+
+## 📜 License
 
 MIT License
