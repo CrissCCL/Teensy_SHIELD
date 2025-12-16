@@ -10,7 +10,7 @@ This shield is intended as a **clean wiring solution for prototyping and testing
 
 
 ## 📂 Contents
-- `/Hardware` → schematic, PCB, Gerbers.
+- `/Hardware` →  Gerber.
 
 
 ## ⚙️ Hardware Description
@@ -52,7 +52,7 @@ Each Teensy pin is routed to expansion connectors for easy access.
 ## 🖼️ Render 3D PCB 
 
 <p align="center">
-<img width="500" alt="UAV Control Loop" src="https://github.com/user-attachments/assets/9d342de3-f207-44a3-a338-7d241f2a026d" />
+<img width="500"  alt="shield teensy_v3" src="https://github.com/user-attachments/assets/413422bc-c54b-4152-b839-46bf6026470e" />
 </p>
 
 ## 📜 License
