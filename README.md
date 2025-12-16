@@ -10,7 +10,7 @@ This shield is intended as a **clean wiring solution for prototyping and testing
 
 
 ## 📂 Contents
-- `/Hardware` →  Schematic and Gerbers.
+- `/Hardware` →  Schematic, PCB, Gerbers.
 
 
 ## ⚙️ Hardware Description
