@@ -55,6 +55,8 @@ Each Teensy pin is routed to expansion connectors for easy access.
 <img width="500"  alt="shield teensy_v3" src="https://github.com/user-attachments/assets/413422bc-c54b-4152-b839-46bf6026470e" />
 </p>
 
-## 📜 License
+## 🤝 Support projects
+ Support me on Patreon [https://www.patreon.com/c/CrissCCL](https://www.patreon.com/c/CrissCCL)
 
+## 📜 License
 MIT License
