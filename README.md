@@ -1,5 +1,12 @@
 # 🔌 Teensy 4.0 Pin Expansion Shield
 
+![Embedded](https://img.shields.io/badge/Embedded-Teensy-blue)
+![Hardware](https://img.shields.io/badge/Hardware-Carrier%2FShield-orange)
+![PCB](https://img.shields.io/badge/PCB-KiCad-lightgrey)
+![IO](https://img.shields.io/badge/IO-Expansion-green)
+![License](https://img.shields.io/badge/License-See%20repo-lightgrey)
+
+
 ## Overview
 
 This pin expansion shield was designed to make it easier to connect devices and modules to a Teensy 4.0 without the need for a breadboard.  
