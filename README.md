@@ -4,7 +4,7 @@
 ![Hardware](https://img.shields.io/badge/Hardware-Carrier%2FShield-orange)
 ![PCB](https://img.shields.io/badge/PCB-KiCad-lightgrey)
 ![IO](https://img.shields.io/badge/IO-Expansion-green)
-![License](https://img.shields.io/badge/License-See%20repo-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 
 ## Overview
